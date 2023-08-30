@@ -1,4 +1,4 @@
-//Juan José Hurtado MOlano
+//Juan José Hurtado Molano
 package poo_1;
 
 public class POO_1 {
