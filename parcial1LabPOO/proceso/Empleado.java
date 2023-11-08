@@ -3,7 +3,7 @@ package proceso;
 
 
 public abstract class Empleado {
-    String nombre;
+    private String nombre;
     double salarioBase;
 
     public Empleado(String nombre, double salarioBase) {
